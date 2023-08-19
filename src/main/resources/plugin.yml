@@ -1,0 +1,8 @@
+name: EthosHorses
+version: '${project.version}'
+main: org.silvius.ethoshorses.EthosHorses
+api-version: 1.20
+commands:
+  horse:
+    usage: /horse [zip, unzip]
+    description: unpacks/packs horse

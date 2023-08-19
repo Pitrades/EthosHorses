@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EthosHorses:jar">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="EthosHorses.jar">
+      <element id="module-output" name="EthosHorses" />
+    </root>
+  </artifact>
+</component>
