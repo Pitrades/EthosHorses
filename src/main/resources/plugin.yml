@@ -6,3 +6,4 @@ commands:
   horse:
     usage: /horse [zip, unzip]
     description: unpacks/packs horse
+depend: [NBTAPI]
